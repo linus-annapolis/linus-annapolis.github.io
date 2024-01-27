@@ -13,7 +13,7 @@ Project Linus works with local businesses and service clubs (Girl Scouts, school
 Come to every meeting or work from your home/office.
 Project Linus makes participation easy and fun!
 
-![blanketeers](./images/20K-Blanket-group.jpg)
+![blanketeers](../images/20K-Blanket-group.jpg)
 
 
 # Donate -- Here's How
@@ -39,4 +39,4 @@ Do you have finished blankets to donate?
  
 
 You may drop them at either of these locations or bring to a monthly meeting. Please mark all bags with “Project Linus".
-![Dropbox at Joann's](./images/dropbox_with_caption.jpg)
+![Dropbox at Joann's](../images/dropbox_with_caption.jpg)

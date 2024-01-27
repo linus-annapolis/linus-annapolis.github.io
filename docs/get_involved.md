@@ -39,7 +39,7 @@ Do you have finished blankets to donate?
  
 
 You may drop them at either of these locations or bring to a monthly meeting. Please mark all bags with “Project Linus".
-| ![SVCC](../images/SVCC.jpg) | ![Joann](../images/joann.jpg) |
+| ![SVCC](../images/SVCC.jpg) | ![Joann](../images/joann-fabric.png) |
 |  623 Baltimore/Annapolis. Blvd. | 150 Jennifer Rd.|
 | Severna Park, MD |Annapolis Plaza |
 | (410) 647-5843 | Annapolis, MD  |

@@ -25,11 +25,11 @@ Project Linus accepts donations of new, handmade blankets in sizes 30″ x 30″
 
 If you would like to donate blanket-making materials (cotton fabrics & yarn) please contact the chapter coordinator first. 
 
-Contact information can be found here.
+Contact information can be found [here](./contact.md).
 
 ## Monetary Donations
 
-​Should you wish to make a cash donation to Project Linus, please visit www.projectlinus.org.
+​Should you wish to make a cash donation to Project Linus, please visit [www.projectlinus.org](https://www.projectlinus.org).
 
 Project Linus is a 501(c)(3) non-profit organization. Donations are tax deductible in accordance within IRS guidelines.
 * * *

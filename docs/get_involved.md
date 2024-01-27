@@ -39,3 +39,4 @@ Do you have finished blankets to donate?
  
 
 You may drop them at either of these locations or bring to a monthly meeting. Please mark all bags with “Project Linus".
+![Dropbox at Joann's](./images/dropbox_with_caption.jpg)

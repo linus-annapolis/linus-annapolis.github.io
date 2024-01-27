@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Learn how to<br>GET INVOLVED<br>with Project Linus
+# Learn how to<br >GET INVOLVED <br>with Project Linus
 * * *
 The blankets come in many styles; quilt, tied comforters, crochet, knit, edged fleece, no-sew fleece, etc. No matter your skill level – there is a blanket style that you will enjoy! Do you want to learn a new technique? Our monthly meetings often focus on learning new skills and many of the ‘blanketeers’ are willing to provide one-on-one help.
 
@@ -39,4 +39,10 @@ Do you have finished blankets to donate?
  
 
 You may drop them at either of these locations or bring to a monthly meeting. Please mark all bags with “Project Linus".
+| ![SVCC](../images/SVCC.jpg) | ![Joann](../images/joann.jpg) |
+|  623 Baltimore/Annapolis. Blvd. | 150 Jennifer Rd.|
+| Severna Park, MD |Annapolis Plaza |
+| (410) 647-5843 | Annapolis, MD  |
+|                | (410) 266-8674 | 
+
 ![Dropbox at Joann's](../images/dropbox_with_caption.jpg)

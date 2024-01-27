@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Project Linus -- Annapolis Maryland
 
 # Home

@@ -1,3 +1,7 @@
+--
+layout: default
+---
+
 ## Learn how to<br>GET INVOLVED<br>with Project Linus
 * * *
 <p style="text-align:center">Center this text</p>

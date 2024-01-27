@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Home
-# [Contact](./docs/contact.md)
-# [Get Involved](./docs/get_involved.md)
+# [Contact](./docs/contact.html)
+# [Get Involved](./docs/get_involved.html)
 # [News & Events](./docs/blog.md)
 
 * * *

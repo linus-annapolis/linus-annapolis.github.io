@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Project Linus -- Annapolis Maryland
-
 # Home
 # [Contact](./contact.md)
 # [Get Involved](./get_involved.md)

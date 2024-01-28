@@ -14,7 +14,6 @@
 {% seo %}
 
     {% include head-custom.html %}
-    {% include nav.html  nav=site.data.menu %}
 
     <style>
       table, tr, td  {border: none;}
@@ -46,6 +45,9 @@
       </div>
     </header>
 
+    {% include nav.html  nav=site.data.menu %}
+
+    
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
